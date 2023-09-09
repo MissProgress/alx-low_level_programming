@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <unistd,h>
+#include <unistd.h>
 
 /**
 * main - Entry point
-Description: prints char below 10
+*Description: prints char below 10
 * Return: always 0
 */
 
@@ -15,6 +15,6 @@ int main(void)
 	{
 		putchar(a + '0');
 	}
-	putchar('\n);
+	putchar('\n');
 	return (0);
 }
