@@ -10,7 +10,7 @@ char m;
 
 for (m = '0'; m < '9'; m++)
 {
-	_putchar(m);
+	_putchar('m');
 }
 	_putchar('\n');
 }
