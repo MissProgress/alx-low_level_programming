@@ -1,7 +1,8 @@
+#include <stdlib.h>
 #include <stdio.h>
 
 /**
- * main - prints the number of arguments
+ * main - multiplies 2 numbers
  * @argc: number of command line arg
  * @argv: aray that contains the program command line arg
  * Return: 0 on success
