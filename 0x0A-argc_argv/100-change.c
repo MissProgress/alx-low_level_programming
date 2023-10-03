@@ -21,7 +21,7 @@ int main(int argc, char **argv)
 
 	while (cents > 0)
 	{
-		if (cent >= 25)
+		if (cents >= 25)
 			cents -= 25;
 		if (cents >= 10)
 			cents -= 10;
@@ -33,6 +33,6 @@ int main(int argc, char **argv)
 			cents -= 1;
 		mncoin += 1;
 	}
-	printf("$d\n", mncoin);
+	printf("%d\n", mncoin);
 	return (0);
 }
