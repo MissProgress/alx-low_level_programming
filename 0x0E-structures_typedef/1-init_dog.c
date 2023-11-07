@@ -1,4 +1,5 @@
 #include "dog.h"
+#include <stdlib.h>
 /**
  * init_dog - initializing th struct dog
  * @d: pointer to the new variable name
