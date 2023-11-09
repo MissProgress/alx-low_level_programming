@@ -38,7 +38,7 @@ int op_mul(int a, int b)
  * op_div - divide a by b
  * @a: num1
  * @b: num2
- * return: answer
+ * Return: answer
  */
 
 int op_div(int a, int b)
